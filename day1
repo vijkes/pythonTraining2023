@@ -1,0 +1,19 @@
+C,C++ are direct compilers or machine dependent
+.c to .exe
+
+java is both compiler and interpreter
+.java to .class ---> comiler
+.class to .exe  ---> interpreter
+
+
+in compiler entire cmd with compiled at once,
+in interpreter cmd are executed statement by statement
+
+py is interpreted lang
+
+compiler--> static
+dynamic--> dynamic
+
+structure of a prog is called syntax
+
+OOPS?
