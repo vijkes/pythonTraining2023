@@ -1,0 +1,20 @@
+NameError: name 'name' is not defined
+
+ValueError: could not convert string to float/int: 'adfa'
+
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+
+hackerrank.com/challenges/30-operators/problem
+
+forward indexing: read data from L to R ; 0 to (n-1)
+
+backward indexing: read data from R to L ; 'Python'[-2]
+
+
+Keys are unique and immutable
+eg: number,string,tuple
+
+Values are not unique and mutable
+eg: anyDataType
+
+Sets: remove duplicate values
