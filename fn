@@ -1,0 +1,15 @@
+local var> precedence than> global
+
+fn ..> 
+block of clodes that perform specific task
+
+arg
+i> actual arg-->when we call a fn
+ii> formal arg--> declare fn def
+...4 types
+   default
+   keyword
+   required/positional   [1-1 correspondence]
+   flexible(*args and **kwargs)
+
+Module: unit of a proj or smallest chunk of a proj
