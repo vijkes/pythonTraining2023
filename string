@@ -1,0 +1,21 @@
+s= 'python'
+s[-1:]
+n
+
+s[1:2]
+y
+
+
+
+print(s[:2],s[2:],s[:-2],s[-2:])
+py thon pyth on
+
+s[-1:-2]
+''  #bcz a<b 
+
+s[::0]
+slice step cannot be zero
+either increment 1 or decrement 1
+
+
+
