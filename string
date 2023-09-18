@@ -16,6 +16,35 @@ s[-1:-2]
 s[::0]
 slice step cannot be zero
 either increment 1 or decrement 1
+------------------------------------------------------------------------
+
+find vs index
+
+sta="Hello"
+stb="howdy"
+
+
+c=" ".join([sta,stb])
+c.find('O')
+-1
+
+c.find('o') #search L to R
+4
+
+c.rfind('o') #search R to L
+7
+
+c.count('o')
+2
+
+c.find('y',4,11)
+10
+
+c.index('w')
+8
+
+c.index('W')
+ValueError: substring not found
 
 
 
